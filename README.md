@@ -34,9 +34,5 @@
 ![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliKhalaji&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhalaji&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhalaji&theme=tokyonight&hide_border=true&layout=compact)
 
 
